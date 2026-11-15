@@ -21,6 +21,11 @@
 - **[StudyAI](https://github.com/amankumar7571/studyai)** — AI-powered placement preparation system generating personalized study plans by role, skill level and weak areas.
 - **[my-portfolio](https://github.com/amankumar7571/my-portfolio)** — Personal developer portfolio.
 
+## Latest projects
+
+- **SahayakCare** — Elderly Care & Medication Management Platform. Passcode-protected shared care profile with medication adherence tracking, appointments, care circle and reminders. [Live demo](https://stalwart-shortbread-198c2f.netlify.app) · [Repo](https://github.com/amankumar7571/sahayakcare)
+- **NaukriRakshak** — AI fake-job-offer detector for Indian freshers. TF-IDF + logistic regression on 117 labelled examples (24/24 held-out); runs fully in the browser. [Live demo](https://sparkly-peony-a6f629.netlify.app) · [Repo](https://github.com/amankumar7571/naukrirakshak)
+
 ## 📊 GitHub Stats
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankumar7571&show_icons=true&theme=radical)
