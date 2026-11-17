@@ -7,7 +7,7 @@
 - 🌱 Building full-stack apps with React, FastAPI & Node.js
 - 💼 Open to SDE / Full-Stack fresher roles — Pan India / Remote
 - 📫 amankumarverna@gmail.com
--     amankumarverma.cv
+-  amankumarverma.cv
 
 ## 🛠️ Tech Stack
 
