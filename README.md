@@ -1,6 +1,7 @@
 # Hi, I'm Aman Kumar 👋
 
 **B.Tech CSE (AI & ML) '27 @ KIET Group of Institutions — aspiring Software Engineer**
+[Portfolio](https://amankumarverma.cv)
 
 - 🔭 Final-year B.Tech — in placement prep: DSA, MERN backend, core CS subjects
 - 🌱 Building full-stack apps with React, FastAPI & Node.js
